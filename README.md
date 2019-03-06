@@ -8,4 +8,7 @@ Data Visualization Class [Note](https://github.com/worasom/class-projects/blob/m
     * Statistical plots with Seaborn: lmplot, residplot, regplot, jointplot, hue, violinplot, striplot, swamplot, pairplot, heatmap
     * Analyzing time series: plot data with datetime index, multiple time slices, inset view
 
+Interactive Visualization with Bokeh [note](https://github.com/worasom/class-projects/blob/master/bokeh_note.ipynb)
 
+    * Basics Bokeh: maker options, drawing geometrical shape using patch(), plotting pandas dataframe in bokeh, box_select tool, Hover tool, Colormap
+    * Building interactive apps with Bokeh: connet Bokeh widgets to a python code.  For example, generate fit after user select a plot, or change plotting data from a selection panel. Widget options include slider, select (dropdown), button etc.
