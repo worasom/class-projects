@@ -19,3 +19,13 @@ Interactive Visualization with Bokeh [note](https://github.com/worasom/class-pro
     * Building interactive apps with Bokeh: connet Bokeh widgets to a python code.  
     For example, generate fit after user select a plot, or change plotting data from a selection panel. 
     Widget options include slider, select (dropdown), button etc.
+    
+Time Series Analysis
+   * Merging Time Series With Different Dates
+   * Correlation, autocorrelation function
+   * Linear Regression 
+   * Stationarity, autoregressive (AR) Models
+    
+Machine Learning for Time Series Data in Python
+   * Classification heartbeat sounds: feature engineering and LinearSVC 
+   * Regression stock prices
