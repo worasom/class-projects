@@ -29,3 +29,17 @@ Time Series Analysis
 Machine Learning for Time Series Data in Python
    * Classification heartbeat sounds: feature engineering and LinearSVC 
    * Regression stock prices
+   * Feature engineer time series data: envelope, tempogram, spectrogram, bandwidths, centroids
+   * Auto-regressive models 
+   * cross-validating time series data
+   * How to work with non-stationary data, and assesting model stability 
+   
+MongoDB
+    * Query documents and subdocuments, Counting Documents
+    * Survey Distinct Values with filters, element match operator 
+    * Filter with Regular Expressions
+    * MongoDB Projection
+    * Sort search result: post query sort and in-query sort 
+    * Indexes in MongoDB
+    * Limits and Skips search 
+    * aggregation 
