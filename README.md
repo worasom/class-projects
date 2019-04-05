@@ -24,7 +24,11 @@ Time Series Analysis
    * Merging Time Series With Different Dates
    * Correlation, autocorrelation function
    * Linear Regression 
+   * Random Walk
    * Stationarity, autoregressive (AR) Models
+   * Moving Average (MA) Model
+   * ARMA model
+   * Cointegration Models
     
 Machine Learning for Time Series Data in Python
    * Classification heartbeat sounds: feature engineering and LinearSVC 
