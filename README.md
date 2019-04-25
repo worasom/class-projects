@@ -40,4 +40,8 @@ collection of classnotes, and class projects from MOOCs I took.
 - Auto-regressive models 
 - cross-validating time series data
 - How to work with non-stationary data, and assesting model stability 
+
+## Statistic and A/B Testing
+
+- Analyzed data from the popular mobile game, Cookie Cats. Used bootstrap analysis to compare effectiveness of time pause at level 30 and 40 toward user retention [notebook](https://github.com/worasom/class-projects/blob/master/cookie_cats.ipynb)
    
