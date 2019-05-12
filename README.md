@@ -1,6 +1,19 @@
 # Class Projects/Notes
 collection of classnotes, and class projects from MOOCs I took.
 
+## Deep Learning [notebook](https://github.com/worasom/class-projects/blob/master/DL_keras.ipynb)
+- Optimizing a neural network with backward propagation
+- Building deep learning models with keras
+- Fine-tuning keras models 100%
+
+## Unsupervised Learning in Python [notebook](https://github.com/worasom/class-projects/blob/master/unsupervised_learning.ipynb)
+
+- Clustering for dataset exploration: k-means clustering, Evaluating a clustering, Transforming features for better clusterings
+- Visualization with hierarchical clustering (dendogram) and t-SNE
+- Decorrelating data and dimension reduction: Principal Component Analysis" ("PCA"), PCA with sparse matrix
+- Discovering interpretable features: dimension reduction technique called "Non-negative matrix factorization" ("NMF")
+- Use NMF to build a recommendation system
+
 ## Data Visualization Class [notebook](https://github.com/worasom/class-projects/blob/master/data_vis.ipynb)
 
 - Customizing 1D plots: apply ggplot style, reset style to default, add arrow to annotate a graph, 
@@ -44,4 +57,6 @@ collection of classnotes, and class projects from MOOCs I took.
 ## Statistic and A/B Testing
 
 - Analyzed data from the popular mobile game, Cookie Cats. Used bootstrap analysis to compare effectiveness of time pause at level 30 and 40 toward user retention [notebook](https://github.com/worasom/class-projects/blob/master/cookie_cats.ipynb)
-   
+
+- Statistical Analysis in Python: random number generator and hacker statistics
+Bernoulli trials, Poisson distribution, normal distribution, exponential distribution, Probability function, Generate bootstrap replicates, calculate bootstrap confidence intervals, pairs boostrap, Formulating and simulating a null hypothesis, Pipeline for hypothesis testing, A/B testing, Hypothesis test for correlation coefficient [notebook](https://github.com/worasom/class-projects/blob/master/statistics.ipynb)
