@@ -14,6 +14,16 @@ collection of classnotes, and class projects from MOOCs I took.
 - Discovering interpretable features: dimension reduction technique called "Non-negative matrix factorization" ("NMF")
 - Use NMF to build a recommendation system
 
+## Fraud Detection in Python [notebook](https://github.com/worasom/class-projects/blob/master/fraud_detection.ipynb)
+
+- Resample methods for imbalance data: over sampling, under sampling, SMOTE method to 
+- Fraud detection using labeled data: supervised learning for fraud detection, Performance metrics for fraud detection, Adjusting algorithm weights, and Using ensemble methods to improve fraud detection
+- Clustering methods for fraud detection (
+ KMeans, and MiniBatchKMeans), Elbow curve method to judge the right amount of clusters, Assigning fraud versus non-fraud, and DBscan
+- Incooperate text data into fraud detection
+- Topic Modeling on Fraud: Latent Dirichlet Allocation(LDA) 
+
+
 ## Data Visualization Class [notebook](https://github.com/worasom/class-projects/blob/master/data_vis.ipynb)
 
 - Customizing 1D plots: apply ggplot style, reset style to default, add arrow to annotate a graph, 
