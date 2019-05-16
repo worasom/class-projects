@@ -70,3 +70,11 @@ collection of classnotes, and class projects from MOOCs I took.
 
 - Statistical Analysis in Python: random number generator and hacker statistics
 Bernoulli trials, Poisson distribution, normal distribution, exponential distribution, Probability function, Generate bootstrap replicates, calculate bootstrap confidence intervals, pairs boostrap, Formulating and simulating a null hypothesis, Pipeline for hypothesis testing, A/B testing, Hypothesis test for correlation coefficient [notebook](https://github.com/worasom/class-projects/blob/master/statistics.ipynb)
+
+## Inferential Statistic [notebook](https://github.com/worasom/class-projects/blob/master/statistic_inference.ipynb)
+
+- Variance, Covariance, and Correlation, Correlation tests: Pearson, Spearman rank, and Kendall Tau
+- Chi-square Test of Independence
+- McNemar test, Independent T-test, Paired Samples t-test, Welch’s t-test, Wilcoxon Sign-Ranked Test
+- Analysis of Variance (ANOVA), ANOVA (2-way, N-way)
+- Multiple Linear Regression, Logistic Regression
